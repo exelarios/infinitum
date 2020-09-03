@@ -29,5 +29,5 @@ A community management framework.
 - Roblox's Lua
 - Firebase
 
-## Release
+### Release
 https://www.roblox.com/library/5058970071/infinitum-Loader

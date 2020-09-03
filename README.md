@@ -29,5 +29,13 @@ A Roblox roleplaying community management framework.
 - Roblox's Lua
 - Firebase
 
+### Menu's User Interface
+allows user to change team and hide their group affiliation.
+![Menu UI](https://i.imgur.com/S9cIq7t.png)
+
+### The Commons 
+A community hub that allows users to change their profile.
+![Community Hub](https://i.imgur.com/G6yrmi3.jpg)
+
 ### Release
 https://www.roblox.com/library/5058970071/infinitum-Loader

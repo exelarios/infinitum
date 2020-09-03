@@ -1,5 +1,5 @@
 # infinitum
-A community management framework.
+A Roblox roleplaying community management framework.
 
 ### Features
 - Sync Database
